@@ -1,4 +1,6 @@
 # City-sia-cia-2
+![Image](https://github.com/user-attachments/assets/4cef6304-95a4-41db-9433-57b9d7a1eb64)
+
 
 تم صنع هاذه المصطلحات من قبل يعقوب و تم التعديل عليها و انشاء موقع من طرف ارثر 〽️
 
@@ -32,4 +34,4 @@
 
 * ✨ هذه المصطلحات قابلة للتعديل والتطوير في أي وقت لتبقى مدينتنا الأفضل! ✨
 * ✨ كن جزءًا من هذا العالم المذهل، والتزم بقوانين الرول بلاي! ✨
-<img width="1536" height="900" alt="Image" src="https://github.com/user-attachments/assets/83fef3d1-d838-4dc6-b115-1a5e92610adc" />
+
