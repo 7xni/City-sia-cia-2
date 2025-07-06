@@ -32,4 +32,4 @@
 
 * ✨ هذه المصطلحات قابلة للتعديل والتطوير في أي وقت لتبقى مدينتنا الأفضل! ✨
 * ✨ كن جزءًا من هذا العالم المذهل، والتزم بقوانين الرول بلاي! ✨
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/83fef3d1-d838-4dc6-b115-1a5e92610adc" />
+<img width="1536" height="524" alt="Image" src="https://github.com/user-attachments/assets/83fef3d1-d838-4dc6-b115-1a5e92610adc" />
